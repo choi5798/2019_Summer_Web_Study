@@ -1,0 +1,52 @@
+body{
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.menu_bar_mom{
+    align-content: center;
+    display: block;
+    width: 100%;
+    height: 28px;
+    background-color: #217ffa;
+}
+
+.menu_bar{
+    float: left;
+    width: 150px;
+    text-align: center;
+}
+
+.menu_bar:hover{
+    background-color: #0059ce;
+}
+
+#title{
+    text-align: center;
+}
+
+.clear{
+    clear: both;
+}
+
+#about{
+    position: relative;
+    top: 50px;
+    bottom: 50px;
+}
+
+.space{
+    margin-top: 50px;
+    height: 200px;
+    background-color: #217ffa;
+}
+
+#top{
+    position: fixed;
+    left: 95%;
+    top: 90%;
+}
