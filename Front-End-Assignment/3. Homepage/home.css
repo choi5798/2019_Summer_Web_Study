@@ -8,6 +8,8 @@ a{
 }
 
 .menu_bar_mom{
+    position: fixed;
+    top:0;
     align-content: center;
     display: block;
     width: 100%;
@@ -41,6 +43,7 @@ a{
 
 .space{
     margin-top: 50px;
+    margin-bottom: 50px;
     height: 200px;
     background-color: #217ffa;
 }
@@ -49,4 +52,8 @@ a{
     position: fixed;
     left: 95%;
     top: 90%;
+}
+
+.student{
+    float: left;
 }
